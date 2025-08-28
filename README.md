@@ -27,8 +27,8 @@ Data Modelling: <br/>
 <br />
 
 <p align="center">
-Importing Data: <br/>
-<img src="https://github.com/Pranav1419/Power-BI-Adventure-Works-project/blob/eb80d4fc42a3695530e1235c4ee591fef94710a0/Screenshot%202025-08-28%20103116.png" height="80%" width="80%" alt="Adventure Works Sales Analysis"/>
+Creating Measures: <br/>
+<img src="https://github.com/Pranav1419/Power-BI-Adventure-Works-project/blob/main/Screenshot%202025-08-28%20110715.png?raw=true" height="80%" width="80%" alt="Adventure Works Sales Analysis"/>
 <br />
 
 <p align="center">
