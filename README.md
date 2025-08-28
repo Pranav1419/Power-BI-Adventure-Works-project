@@ -13,12 +13,12 @@ This project focuses on analyzing sales performance using interactive dashboards
 
 <p align="center">
 Importing Data: <br/>
-<img src="https://github.com/Pranav1419/Power-BI-Adventure-Works-project/blob/eb80d4fc42a3695530e1235c4ee591fef94710a0/Screenshot%202025-08-28%20103116.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Pranav1419/Power-BI-Adventure-Works-project/blob/eb80d4fc42a3695530e1235c4ee591fef94710a0/Screenshot%202025-08-28%20103116.png" height="80%" width="80%" alt="Adventure Works Sales Analysis"/>
 <br />
 
 <p align="center">
 Importing Data: <br/>
-<img src="https://github.com/Pranav1419/Power-BI-Adventure-Works-project/blob/eb80d4fc42a3695530e1235c4ee591fef94710a0/Screenshot%202025-08-28%20103116.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://github.com/Pranav1419/Power-BI-Adventure-Works-project/blob/eb80d4fc42a3695530e1235c4ee591fef94710a0/Screenshot%202025-08-28%20103116.png](https://github.com/Pranav1419/Power-BI-Adventure-Works-project/blob/fd4939803b243e378ebdafc4862810f69c6f8239/Screenshot%202025-08-28%20105130.png)" height="80%" width="80%" alt="Adventure Works Sales Analysis"/>
 <br />
 <!--
  ```diff
