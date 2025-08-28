@@ -17,7 +17,7 @@ Importing Data: <br/>
 <br />
 
 <p align="center">
-Importing Data: <br/>
+Preprocessing data: <br/>
 <img src="https://github.com/Pranav1419/Power-BI-Adventure-Works-project/blob/main/Screenshot%202025-08-28%20105130.png?raw=true" height="80%" width="80%" alt="Adventure Works Sales Analysis"/>
 <br />
 <!--
