@@ -11,6 +11,11 @@ This project focuses on analyzing sales performance using interactive dashboards
 - <b>PowerBI Desktop</b>
 - <b>Power Query Editor</b>
 
+<p align="center">
+Launch the utility: <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
 <!--
  ```diff
 - text in red
